@@ -11,7 +11,7 @@
 
 FailSafe Attestation Service Safe CLI is a command-line utility built on top of Safe CLI version 1.0.0, available here https://pypi.org/project/safe-cli
 
-It provides the ability to connect to a custom Safe Transaction Service URL (by introducing a new command line parameter) plus all the options provided by the original version of Safe CLI.
+It provides the ability to connect to a custom Safe Transaction Service URL (by introducing a new command line parameter) and various commands to manage the lifecycle of FailSafe Attested Safe{Wallet}, plus all the options provided by the original version of Safe CLI.
 
 # Safe CLI
 
